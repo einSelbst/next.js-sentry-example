@@ -8,9 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@sentry/browser": "6.2.5",
-    "@sentry/integrations": "6.2.5",
-    "@sentry/node": "6.2.5",
+    "@sentry/browser": "6.3.5",
+    "@sentry/integrations": "6.3.5",
+    "@sentry/node": "6.3.5",
     "@sentry/webpack-plugin": "1.14.2",
     "@zeit/next-source-maps": "0.0.4-canary.1",
     "next": "latest",
